@@ -67,7 +67,7 @@ Standalone versions of the program are included for use outside ArcGIS.
 
 src/ – Python scripts for data entry and ArcPy processing  
 notebooks/ – Example ArcGIS Pro notebook workflow  
-docs/ – Workflow diagram and supporting documentation  
-data_example.xlsx – Sample dataset for testing
+docs/ – Workflow diagram, map and supporting documentation  
+sample_data.xlsx – Sample dataset for testing
 
 
